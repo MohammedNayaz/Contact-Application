@@ -36,12 +36,34 @@ Steps to execute the Program
 
 ![image](https://user-images.githubusercontent.com/64147100/157699631-696e6476-ad4a-45c0-8ab8-5c30416d58cb.png)
 
-3. Now you will be redirected to the follwoing page:
+3. Now you will be redirected to the follwoing page: Signin / Home page(before sign-in)
 
 ![image](https://user-images.githubusercontent.com/64147100/157699736-c3a5a21f-84d9-46bd-be9b-0f47390df181.png)
 
 
 4. The application is ready to use.
+
+
+5. Signup Page: 
+
+![image](https://user-images.githubusercontent.com/64147100/157700252-32d2296a-4b91-4ddb-b917-4a1606c31837.png)
+
+
+6. Trying to access the contact page before logging in:
+
+![image](https://user-images.githubusercontent.com/64147100/157700421-24f3eaa3-47ca-48b5-8f92-e687274d7625.png)
+
+7. Contact Page After Signing in:
+
+![image](https://user-images.githubusercontent.com/64147100/157700566-a2c66656-8ceb-4690-a089-959f63f54a6a.png)
+
+![image](https://user-images.githubusercontent.com/64147100/157700602-3a004960-5c6f-4461-ba20-f6c11580acd2.png)
+
+8. Home page, post signing in:
+
+![image](https://user-images.githubusercontent.com/64147100/157700703-635bd4a2-8d79-476b-8fcd-a84a5fa26752.png)
+
+
 
 #Stage 3:
 
