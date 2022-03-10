@@ -10,7 +10,7 @@ Steps to execute the Program
 
 #Step 1:
 1. Download the entire contactmanagement folder,
-2. Copy theentire folder and paste/save in the followinf location (C:\xampp\htdocs)
+2. Copy the entire folder and paste/save in the followinf location (C:\xampp\htdocs)
 
 ![image](https://user-images.githubusercontent.com/64147100/157697837-8f64ab9b-2956-43b6-adc3-92d3a4557ce6.png)
 
@@ -26,7 +26,7 @@ Steps to execute the Program
 
 ![image](https://user-images.githubusercontent.com/64147100/157698948-b2cb1656-7108-41dd-a12e-341c6114ba11.png)
 
-6. Now, after creating a database, click on import and chose the file from the location (C:\xampp\htdocs\contactmanagement\Database\contactapp.sql). And click on GO, to import the database.
+6. Now, after creating a database, click on import and choose the file from the location (C:\xampp\htdocs\contactmanagement\Database\contactapp.sql). And click on GO, to import the database.
 
 ![image](https://user-images.githubusercontent.com/64147100/157699218-d76bcf5b-0b22-4644-b525-c15ad12f4290.png)
 
