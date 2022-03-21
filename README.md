@@ -10,7 +10,7 @@ Steps to execute the Program
 
 #Step 1:
 1. Download the entire contactmanagement folder,
-2. Copy the entire folder and paste/save in the followinf location (C:\xampp\htdocs)
+2. Copy the entire folder and paste/save in the following location (C:\xampp\htdocs)
 
 ![image](https://user-images.githubusercontent.com/64147100/157697837-8f64ab9b-2956-43b6-adc3-92d3a4557ce6.png)
 
